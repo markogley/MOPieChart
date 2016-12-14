@@ -57,6 +57,6 @@ Create or import your data using the Slice struct.
  
  Titles
  
- *Known bug that the title do not scale well with smaller slices.*
+ *Known bug that the titles do not scale well with smaller slices.*
  
  ![titles](https://cloud.githubusercontent.com/assets/1904525/21112153/0abbb27c-c07b-11e6-8bf1-2efa3e96ffbe.png)
